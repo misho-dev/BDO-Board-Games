@@ -65,7 +65,10 @@ const MainPage = () => {
           pizza, snacks, soft drinks, and beer for the evening.
         </Typography>
         <Typography variant="body1" align="center" gutterBottom>
-          We look forward to seeing you at the next game night!
+          We look forward to seeing you at the on Game Night.
+        </Typography>
+        <Typography variant="body1" align="center" gutterBottom>
+          AUGUST 4th -- 18:00 -- 4th FLOOR
         </Typography>
       </Box>
 
