@@ -12,9 +12,40 @@
 
 body {
   margin: 0;
-  height: 100vh;
   display: flex;
   background-size: 200% 200%;
   background-image: linear-gradient(45deg, #0b286e, #121212, #e61939);
   animation: gradient 10s ease infinite;
+  overflow-x: hidden;
 }
+
+/* For tablets and small desktops */
+@media (min-width: 768px) and (max-width: 1023px) {
+  body {
+    background-image: linear-gradient(30deg, #0b286e, #121212, #e61939);
+  }
+}
+
+/* For mobile devices */
+@media (max-width: 767px) {
+  body {
+    background-image: linear-gradient(20deg, #0b286e, #121212, #e61939);
+  }
+}
+
+/* For Chrome and Safari */
+::-webkit-scrollbar {
+  width: 12px; /* width of the entire scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #121212; /* color of the tracking area */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #e61939; /* color of the scroll thumb */
+  border-radius: 20px; /* roundness of the scroll thumb */
+  border: 3px solid #0b286e; /* creates padding around scroll thumb */
+}
+
+

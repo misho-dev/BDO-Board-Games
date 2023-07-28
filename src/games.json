@@ -1,13 +1,101 @@
 [
-    {
-        "id": "catan1",
-        "name": "Catan",
-        "image": "https://th.bing.com/th/id/OIP.ungu7755GFS7NtZ08RpQEAHaJI?pid=ImgDet&rs=1",
-        "description": "This is a description of Game 1.",
-        "players": {
-            "min": 2,
-            "max": 4
-        },
-        "rules": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nullam vehicula ipsum a arcu cursus. Sed turpis tincidunt id aliquet risus feugiat. Risus pretium quam vulputate dignissim suspendisse in. Donec pretium vulputate sapien nec. Pharetra massa massa ultricies mi quis. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Aliquam faucibus purus in massa. Arcu risus quis varius quam. Eros in cursus turpis massa. At imperdiet dui accumsan sit amet nulla. Volutpat commodo sed egestas egestas fringilla phasellus faucibus. Mauris rhoncus aenean vel elit. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Diam quam nulla porttitor massa id neque aliquam. Id aliquet lectus proin nibh nisl condimentum id venenatis. Dolor sed viverra ipsum nunc aliquet bibendum. Interdum consectetur libero id faucibus nisl tincidunt. Sit amet massa vitae tortor. Libero justo laoreet sit amet. Viverra tellus in hac habitasse platea dictumst vestibulum. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Facilisis magna etiam tempor orci eu lobortis elementum. Id volutpat lacus laoreet non curabitur gravida arcu ac tortor. Odio ut sem nulla pharetra diam sit amet nisl suscipit. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Nisl nisi scelerisque eu ultrices vitae auctor. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Velit egestas dui id ornare arcu. Nunc id cursus metus aliquam eleifend mi in. Pretium quam vulputate dignissim suspendisse in est. Placerat duis ultricies lacus sed turpis tincidunt.Suspendisse sed nisi lacus sed viverra tellus in hac. Urna neque viverra justo nec ultrices dui. Odio aenean sed adipiscing diam donec adipiscing tristique. Leo duis ut diam quam nulla porttitor massa id neque. Eget gravida cum sociis natoque penatibus et. Tellus orci ac auctor augue mauris augue neque gravida in. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Lacus vel facilisis volutpat est velit egestas. Ultrices sagittis orci a scelerisque purus semper eget duis at. Turpis massa tincidunt dui ut ornare lectus sit amet est. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Morbi tincidunt augue interdum velit euismod in pellentesque massa. Etiam tempor orci eu lobortis elementum nibh tellus molestie. Platea dictumst quisque sagittis purus sit amet volutpat. Cursus turpis massa tincidunt dui ut ornare lectus sit amet. Tortor dignissim convallis aenean et tortor at.Ac tortor vitae purus faucibus ornare suspendisse sed. Dignissim cras tincidunt lobortis feugiat vivamus at. Morbi blandit cursus risus at ultrices mi. Et netus et malesuada fames ac turpis egestas sed. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Ultricies leo integer malesuada nunc vel risus commodo viverra. Aliquam malesuada bibendum arcu vitae elementum. Orci nulla pellentesque dignissim enim sit amet. Id semper risus in hendrerit. Augue lacus viverra vitae congue. Orci dapibus ultrices in iaculis nunc sed augue. Commodo elit at imperdiet dui accumsan sit amet. Tincidunt lobortis feugiat vivamus at augue. Bibendum at varius vel pharetra vel turpis nunc eget. Ut placerat orci nulla pellentesque. Commodo ullamcorper a lacus vestibulum sed arcu non. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Quis auctor elit sed vulputate mi sit. Egestas congue quisque egestas diam in arcu cursus euismod. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Orci eu lobortis elementum nibh tellus. Cursus risus at ultrices mi. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Magna sit amet purus gravida quis. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Tellus id interdum velit laoreet id. Amet facilisis magna etiam tempor orci eu. Nec ultrices dui sapien eget mi proin sed libero. Mauris sit amet massa vitae. Semper eget duis at tellus at urna condimentum mattis pellentesque."
-    }
+  {
+    "id": "catan1",
+    "name": "Catan",
+    "image": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg",
+    "description": "Catan is a popular board game where players collect resources, trade, and build settlements and cities on the island of Catan.",
+    "players": {
+      "min": 2,
+      "max": 4
+    },
+    "rules": "Objective: \n The object of the game is to be the first player to earn 10 victory points. Victory points are earned by building settlements and cities, having the longest road and the largest army, and collecting development cards that earn victory points. \n\n Game Setup: \n Each player starts with two small settlements on the corners of hexes. Each settlement is adjacent to three hex tiles. Each player also starts with two roads. \n\n Gameplay: \n On your turn, you roll the dice to determine which hexes produce resources. Any player with a settlement or city adjacent to a hex with the number rolled receives the corresponding resource cards. Then, you may trade resources with other players or build roads, settlements, or cities and buy development cards, depending on your available resources. \n\n Special Rules: \n If you roll a 7, the robber must be moved to another hex, which will no longer produce resources until the robber is moved again. The player who moved the robber gets to steal one resource card from a player with a settlement or city adjacent to the robber's new hex. \n\n Winning: \n The game ends when a player reaches 10 victory points on their turn."
+  },
+  {
+    "id": "risk1",
+    "name": "Risk",
+    "image": "https://th.bing.com/th/id/OIP.YrpyWbKCXL-u0Mm7dYxnswHaEP?pid=ImgDet&rs=1",
+    "description": "Risk is a classic board game of global domination where players strategize to conquer territories and continents by rolling dice and engaging in battles.",
+    "players": {
+      "min": 2,
+      "max": 6
+    },
+    "rules": "Objective: \n The object of the game is to conquer the world by occupying all territories on the game board. \n\n Game Setup: \n Each player selects a color and places their armies on the game board. The game begins with a draft phase, where players take turns claiming territories until all are occupied. Players then take turns attacking, fortifying, and claiming new territories. \n\n Gameplay: \n On your turn, try to capture territories by defeating your opponents' armies. But be careful: Winning battles will depend on careful planning, quick decisions and bold moves. You'll have to place your forces wisely, as you're also fighting on the front lines. When you take over a territory, you'll earn a Territory card. Collect enough cards, and you can turn them in for bonus armies. You'll earn an additional bonus if you conquer an entire continent. \n\n Winning: \n The game ends when one player occupies all territories. \n\n Please refer to the full rulebook for the complete rules, as this is a complex game with many nuances and strategies."
+  },
+  {
+    "id": "coup1",
+    "name": "Coup",
+    "image": "https://th.bing.com/th/id/R.f008328ce567f04ecf289793fdbf37c8?rik=8dJmkbjUuH%2fjDg&riu=http%3a%2f%2fgeekandsundry.com%2fwp-content%2fuploads%2f2016%2f06%2fcoup1.jpg&ehk=NvlEGI3uGOUPi7bVnmhjY6Yfh%2fHzY4fDcl2ScnZNWig%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Coup is a card game of deception and bluffing, where players try to eliminate each other's influence by using special abilities of different characters.",
+    "players": {
+      "min": 2,
+      "max": 6
+    },
+    "rules": "Objective: \n The object of the game is to be the last player with at least one influence left. Influence is represented by face-down character cards in front of a player. \n\n Game Setup: \n Each player starts with two coins and two influence (i.e., two face-down character cards). The remaining cards and coins are placed in the center of the table as a supply. \n\n Gameplay: \n On your turn, you can take one of the several actions, such as income, foreign aid, coup, and use the special ability of a character. All players have the same set of possible actions, but depending on their character cards, they might have access to additional actions or counteractions. Other players can challenge a player's action if they think that the player doesn't have the character they claim to have. If the challenged player can't prove they have the character, they lose an influence. If they can prove it, the challenger loses an influence. \n\n Winning: \n The last player with at least one influence left is the winner."
+  },
+  {
+    "id": "dixit1",
+    "name": "Dixit",
+    "image": "https://i.pinimg.com/originals/aa/4d/e6/aa4de6ae6d5e14c94a9d39bb8ffc13c7.jpg",
+    "description": "Dixit is a storytelling and picture interpretation game where players use beautiful, surreal cards to create imaginative stories.",
+    "players": {
+      "min": 3,
+      "max": 6
+    },
+    "rules": "Objective: \n The aim of the game is to be the first to score 30 points. \n\n Game Setup: \n Each player receives a set of voting tokens (numbered 1 to 6) and 6 cards. The scoreboard is placed in the center of the table, and each player's rabbit token is placed on space 0. \n\n Gameplay: \n On your turn, you are the storyteller. You look at the 6 images in your hand. From one of these, you make up a sentence and say it out loud (without showing the card to the other players). The other players select amongst their 6 images the one that best matches the sentence made up by the storyteller. The storyteller shuffles his or her card with all the received cards. All pictures are shown face up, randomly, and every player has to bet upon which picture was the storyteller’s, using the voting tokens. \n\n Scoring: \n If all players find the storyteller’s card or if no one finds it, the storyteller scores 0, and each of the other players scores 2. Otherwise the storyteller and whoever found the correct answer score 3. Players score 1 point for every vote for their own card. \n\n Winning: \n The game ends when the deck is empty or if a player scores 30 points. The player with the most points wins the game."
+  },
+  {
+    "id": "werewolf1",
+    "name": "Werewolf",
+    "image": "https://cf.geekdo-images.com/Aw0CZqg-LgYK5YjVE6HReg__opengraph_left/img/oXkT32DuNzJXShlMrTr6vshLM-M=/fit-in/445x445/filters:strip_icc()/pic4119482.jpg",
+    "description": "Werewolf is a social deduction game in which players are secretly assigned roles as villagers or werewolves and must figure out each other's identities through discussion and deduction.",
+    "players": {
+      "min": 7,
+      "max": 25
+    },
+    "rules": "Objective: \n The objective of the game is for the villagers to eliminate all the werewolves, or for the werewolves to eliminate all the villagers. \n\n Game Setup: \n Each player receives a card representing their role (werewolf, villager, or special role). All players close their eyes, and the game moderator begins the first night. \n\n Gameplay: \n The game alternates between night and day phases. At night, the werewolves secretly choose a villager to eliminate. Special roles like the Seer or the Witch may also perform their actions at night. During the day, the villagers (including the surviving werewolves) debate and vote on a player to lynch, hoping to kill a werewolf. \n\n Scoring: \n There is no scoring in Werewolf. The game ends when either all the werewolves or all the villagers have been eliminated. \n\n Winning: \n The game ends when either all the werewolves or all the villagers have been eliminated. The team that survives (werewolves or villagers) wins the game."
+  },
+  {
+    "id": "saboteur1",
+    "name": "Saboteur",
+    "image": "https://th.bing.com/th/id/OIP.37sShPMaEILoEsdnxCk0SQAAAA?pid=ImgDet&rs=1",
+    "description": "Players take on the role of dwarves. As miners, they are in a mine, hunting for gold. Suddenly, a pick axe swings down and shatters the mine lamp. The saboteur has struck. But which of the players are saboteurs? Will you find the gold, or will the fiendish actions of the saboteurs lead them to it first? After three rounds, the player with the most gold is the winner.",
+    "players": {
+      "min": 2,
+      "max": 4
+    },
+    "rules": "Objective: \n The objective of the game is for the miners to build a path to the gold nugget, or for the saboteurs to prevent them from doing so. \n\n Game Setup: \n Each player receives a role card (miner or saboteur), a hand of path and action cards, and the players start building a path from the start card towards the goal cards. \n\n Gameplay: \n On their turn, players can add a path card to the mine, play an action card, or pass. Path cards must continue the path from the start card, and action cards can help the player or hinder others. \n\n Winning: \n The round ends when a path is completed to the gold nugget or when the players run out of cards. Miners share the gold if they reach the nugget, while saboteurs win if they prevent this. After three rounds, the player with the most gold wins."
+  },
+  {
+    "id": "avalon1",
+    "name": "Avalon",
+    "image": "https://m.media-amazon.com/images/I/91KIKLNurJL.jpg",
+    "description": "Avalon is a social deduction game where players take on the roles of Arthurian characters, trying to identify the evil minions of Mordred among them.",
+    "players": {
+      "min": 5,
+      "max": 10
+    },
+    "rules": "Game Setup: \n Each player receives a character card, designating them as a servant of Arthur (good) or a minion of Mordred (evil). Good players do not know who else is good or evil, while all evil players know the identity of their allies. \n\n Gameplay: \n Players take turns being the team leader, proposing teams to carry out quests. All players vote on whether to approve the team. If the team is approved, they go on a quest and secretly choose to succeed or fail it. Good players must always choose to succeed the quest, while evil players may choose to fail it. \n\n Winning: \n The first side to win three quests wins the game. However, if the good players win three quests, the evil players have one final chance to win by correctly guessing the identity of Merlin. If they do, the evil players win instead."
+  },
+  {
+    "id": "explodingkittens1",
+    "name": "Exploding Kittens",
+    "image": "https://assets-prd.ignimgs.com/2022/04/18/exploding-kittens-button-1650308544211.jpg",
+    "description": "Exploding Kittens is a humorous card game where players draw cards, trying to avoid the exploding kitten cards while using various cards to their advantage.",
+    "players": {
+      "min": 2,
+      "max": 5
+    },
+    "rules": "Game Setup: \n Each player draws a card at the start of their turn and adds it to their hand. The deck is made up of various types of cards, including Exploding Kittens. \n\n Gameplay: \n Players take turns drawing cards, with the goal of avoiding drawing an Exploding Kitten. If a player draws an Exploding Kitten and cannot 'defuse' it using a Defuse card, they are out of the game. Other cards in the deck can be used to mitigate or avoid the Exploding Kittens, such as Skip, Attack, Shuffle, See the Future, and Favor cards, which allow players to skip their turn, force another player to take extra turns, shuffle the deck, peek at the top few cards of the deck, or ask another player for a card of their choice. \n\n Winning: \n The last player who has not drawn an Exploding Kitten wins the game."
+  },
+  {
+    "id": "codenames1",
+    "name": "Codenames",
+    "image": "https://th.bing.com/th/id/R.b301b18c1d20283be58943a1bd1971e8?rik=aAoQ5E68f%2fIHMQ&pid=ImgRaw&r=0",
+    "description": "Codenames is a word-based party game where players try to guess the locations of their secret agents based on one-word clues given by their spymaster.",
+    "players": {
+      "min": 2,
+      "max": 8
+    },
+    "rules": "Game Setup: \n Players split into two teams of roughly equal size and choose a team leader who will be the 'Spymaster'. The Spymasters sit on one side of the table, and the rest of the players sit across from them. A grid of 25 Codename cards is laid out on the table, and the Spymasters are given a random key card that shows which codenames correspond to the red agents, which to the blue, which are innocent bystanders, and which is the assassin. \n\n Gameplay: \n Teams take turns having their Spymaster give a one-word clue and a number that tells their team how many codenames on the table are related to that clue. The team then discusses and makes a guess. If they guess a codename that corresponds to an agent of their color, they can guess again. If they guess an innocent bystander or an agent of the opposite color, their turn ends. If they guess the assassin, they lose the game immediately. \n\n Winning: \n The first team to uncover all of their agents wins. If a team uncovers the assassin, they lose immediately."
+  }
 ]
